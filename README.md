@@ -1,6 +1,6 @@
-# JHU Mechanical Engineering Dissertation Proposal Template
+# JHU Electrical Engineering Dissertation Proposal Template
 
-This is an unofficial LaTeX template for the dissertation proposal for PhD in Mechanical Engineering program at Johns Hopkins University. The program does not require any specific formatting, however, provides some general guidelines on the sections with a suggested page limit to be included in the proposal. This template is created based on those general guidelines.
+This is an unofficial LaTeX template for the dissertation proposal for PhD in Electrical & Computer Engineering program at Johns Hopkins University. The program does not require any specific formatting, however, provides some general guidelines on the sections with a suggested page limit to be included in the proposal. This template is created based on those general guidelines.
 
 **It is the user's responsibility to discuss with their advisor(s) and committee members about the formatting and styles of the proposal.**
 
